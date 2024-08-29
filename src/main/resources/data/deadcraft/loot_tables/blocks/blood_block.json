@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "deadcraft:blocks/blood_block",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "deadcraft:blood_block"
+        }
+      ]
+    }
+  ]
+}

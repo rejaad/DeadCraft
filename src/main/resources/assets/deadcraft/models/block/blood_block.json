@@ -1,0 +1,10 @@
+{
+  "parent": "deadcraft:custom/blood_block",
+  "textures": {
+    "all": "deadcraft:block/blood_block",
+    "particle": "deadcraft:block/blood_block",
+    "0": "deadcraft:block/blood_block",
+    "1": "deadcraft:block/blood_block_int"
+  },
+  "render_type": "translucent"
+}

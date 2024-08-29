@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "deadcraft:baricade_spruce",
+    "deadcraft:baricade_mangrove",
+    "deadcraft:baricade_jungle",
+    "deadcraft:baricade_dark_oak",
+    "deadcraft:baricade_cherry",
+    "deadcraft:baricade_acacia",
+    "deadcraft:barricade_birch",
+    "deadcraft:barricade_oak"
+  ]
+}

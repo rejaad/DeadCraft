@@ -1,0 +1,9 @@
+{
+  "parent": "deadcraft:custom/barricade_3d",
+  "textures": {
+    "all": "deadcraft:block/acacia_log",
+    "particle": "deadcraft:block/acacia_log",
+    "0": "deadcraft:block/acacia_log"
+  },
+  "render_type": "translucent"
+}

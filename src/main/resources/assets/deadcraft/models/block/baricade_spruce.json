@@ -1,0 +1,9 @@
+{
+  "parent": "deadcraft:custom/barricade_3d",
+  "textures": {
+    "all": "deadcraft:block/spruce_log",
+    "particle": "deadcraft:block/spruce_log",
+    "0": "deadcraft:block/spruce_log"
+  },
+  "render_type": "translucent"
+}

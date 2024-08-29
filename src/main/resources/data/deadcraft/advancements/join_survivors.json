@@ -1,0 +1,7 @@
+{
+  "criteria": {
+    "join_survivors_0": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

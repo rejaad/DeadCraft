@@ -1,0 +1,10 @@
+{
+  "parent": "deadcraft:custom/blood_splatter_3d",
+  "textures": {
+    "all": "deadcraft:block/blood_splatter",
+    "particle": "deadcraft:block/blood_splatter",
+    "0": "deadcraft:block/blood_splatter",
+    "missing": "deadcraft:block/blood_splatter"
+  },
+  "render_type": "translucent"
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "deadcraft:custom/barricade_3d",
+  "textures": {
+    "all": "deadcraft:block/dark_oak_log",
+    "particle": "deadcraft:block/dark_oak_log",
+    "0": "deadcraft:block/dark_oak_log"
+  },
+  "render_type": "translucent"
+}

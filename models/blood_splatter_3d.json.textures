@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "blood_splatter",
+        "missing": "blood_splatter"
+      },
+      "name": "default"
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "deadcraft:custom/barricade_3d",
+  "textures": {
+    "all": "deadcraft:block/mangrove_log",
+    "particle": "deadcraft:block/mangrove_log",
+    "0": "deadcraft:block/mangrove_log"
+  },
+  "render_type": "translucent"
+}

@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "deadcraft:block/baricade_cherry"
+    },
+    "facing=east": {
+      "model": "deadcraft:block/baricade_cherry",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "deadcraft:block/baricade_cherry",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "deadcraft:block/baricade_cherry",
+      "y": 270
+    }
+  }
+}

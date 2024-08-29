@@ -1,0 +1,22 @@
+{
+  "block.deadcraft.baricade_spruce": "Spruce Barricade",
+  "advancements.join_survivors.descr": "Join the Survivors",
+  "death.attack.bleed_damage": "%1$s bled out",
+  "gui.deadcraft.journal_p_2.label_dead": "dead",
+  "item_group.deadcraft.deadcraft_cm": "Deadcraft",
+  "block.deadcraft.blood_block": "Blood Block",
+  "death.attack.bleed_damage.player": "%1$s bled out whilst trying to escape %2$s",
+  "block.deadcraft.baricade_cherry": "Cherry Barricade",
+  "item.deadcraft.bandages": "Bandage Roll",
+  "item.deadcraft.blood_bottle": "Blood Bottle",
+  "block.deadcraft.baricade_mangrove": "Mangrove Barricade",
+  "effect.deadcraft.bleeding_effect": "Bleeding",
+  "block.deadcraft.barricade_oak": "Oak Barricade",
+  "death.attack.bleed_damage.item": "%1$s was drained of blood by %2$s using %3$s",
+  "block.deadcraft.baricade_dark_oak": "Dark Oak Barricade",
+  "block.deadcraft.baricade_acacia": "Acacia Barricade",
+  "block.deadcraft.blood_splatter": "Blood Splatter",
+  "block.deadcraft.barricade_birch": "Birch Barricade",
+  "block.deadcraft.baricade_jungle": "Jungle Barricade",
+  "advancements.join_survivors.title": "Join Survivors"
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "deadcraft:custom/barricade_3d",
+  "textures": {
+    "all": "deadcraft:block/cherry_log",
+    "particle": "deadcraft:block/cherry_log",
+    "0": "deadcraft:block/cherry_log"
+  },
+  "render_type": "translucent"
+}

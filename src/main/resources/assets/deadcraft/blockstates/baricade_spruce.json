@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "deadcraft:block/baricade_spruce"
+    },
+    "facing=east": {
+      "model": "deadcraft:block/baricade_spruce",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "deadcraft:block/baricade_spruce",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "deadcraft:block/baricade_spruce",
+      "y": 270
+    }
+  }
+}

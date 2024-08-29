@@ -1,0 +1,44 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="Apache License version 2.0"
+
+[[mods]]
+modId="deadcraft"
+version="0.0.1"
+displayName="DeadCraft"
+displayURL="https://mcreator.net"
+logoFile="logo.png"
+credits="Created using mod maker MCreator - https://mcreator.net/about"
+authors="Re'Jaad"
+description="Base of The modpack by the same name"
+
+# Start of user code block mod configuration
+# End of user code block mod configuration
+
+[[dependencies.deadcraft]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20.1]"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.deadcraft]]
+    modId="enhanced-celestials"
+    mandatory=true
+    versionRange="[0,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.deadcraft]]
+    modId="horde-moon"
+    mandatory=true
+    versionRange="[0,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.deadcraft]]
+    modId="extreme-horde-moon"
+    mandatory=true
+    versionRange="[0,)"
+    ordering="NONE"
+    side="BOTH"
+
+

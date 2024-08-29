@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "deadcraft:block/barricade_birch"
+    },
+    "facing=east": {
+      "model": "deadcraft:block/barricade_birch",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "deadcraft:block/barricade_birch",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "deadcraft:block/barricade_birch",
+      "y": 270
+    }
+  }
+}

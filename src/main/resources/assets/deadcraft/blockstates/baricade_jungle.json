@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "deadcraft:block/baricade_jungle"
+    },
+    "facing=east": {
+      "model": "deadcraft:block/baricade_jungle",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "deadcraft:block/baricade_jungle",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "deadcraft:block/baricade_jungle",
+      "y": 270
+    }
+  }
+}

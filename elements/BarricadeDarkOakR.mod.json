@@ -1,0 +1,48 @@
+{
+  "_fv": 60,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 2,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "BUILDING",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Blocks.LOG2#1"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Blocks.LOG2#1"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Blocks.LOG2#1"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:BaricadeDarkOak"
+    },
+    "name": "barricade_dark_oak_r",
+    "namespace": "mod"
+  }
+}

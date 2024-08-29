@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    " a ",
+    "a a"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:spruce_log"
+    }
+  },
+  "result": {
+    "item": "deadcraft:baricade_spruce",
+    "count": 2
+  }
+}

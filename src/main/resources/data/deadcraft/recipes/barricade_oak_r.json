@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    " a ",
+    "a a"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:oak_log"
+    }
+  },
+  "result": {
+    "item": "deadcraft:barricade_oak",
+    "count": 2
+  }
+}

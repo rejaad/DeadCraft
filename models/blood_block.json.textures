@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "blood_block",
+        "1": "blood_block_int"
+      },
+      "name": "default"
+    }
+  }
+}
