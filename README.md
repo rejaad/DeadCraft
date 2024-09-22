@@ -10,3 +10,5 @@ Build structures to keep out the dead...
 You can craft wooden barricades, but be careful—they’ll apply the bleed effect if you run into them
 
 But your first true challenge comes with the Horde Moon, an event where a swarm of zombies will hunt you relentlessly
+
+<p>Support me on <a href="Ko-fi.com/rejaad" target="_blank" rel="noopener noreferrer">Ko-fi</p>
